@@ -9,7 +9,7 @@ import time
 class HackParser:
     """
     Encapsulates access to the input code. Reads an assembly language
-    com mand, parses it, and provides convenient access to the command's
+    statement, parses it, and provides convenient access to the statement's
     components (fields and symbols). In addition, removes all white
     space and comments.
     """
